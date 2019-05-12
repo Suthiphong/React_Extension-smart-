@@ -26,3 +26,19 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+.btn{
+  background-color:rgba(0,0,0,0);
+  padding: 5px;
+  width:100%;
+  border-radius: 5px;
+  border-style: solid;
+  transition:1s;
+  margin:10
+
+}
+.btn:hover{
+  transition:1s;
+  border-color: red;
+}
