@@ -1,4 +1,4 @@
-# THANK REPO `https://github.com/ShuvoHabib/create-react-app-chrome-extension-boilerplate`
+### THANK REPO `https://github.com/ShuvoHabib/create-react-app-chrome-extension-boilerplate`
 
 `git clone https://github.com/Suthiphong/React_Extension-smart-`
 
