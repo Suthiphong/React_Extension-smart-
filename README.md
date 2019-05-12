@@ -1,4 +1,13 @@
-THANK REPO `xxx`
+# THANK REPO `https://github.com/ShuvoHabib/create-react-app-chrome-extension-boilerplate`
+
+`git clone https://github.com/Suthiphong/React_Extension-smart-`
+
+###### `npm install or yarn install`
+
+###### `npm run build or yarn build`
+
+
+
 ### Chrome Manifest v2
 
 ```json
